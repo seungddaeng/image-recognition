@@ -1,0 +1,5 @@
+{
+    "S3_IMAGE_BUCKET": "patty-images-bucket",
+    "AWS_REGION": "us-east-1",
+    "DYNAMODB_TABLE_NAME": "PattyImageTags"
+  }
